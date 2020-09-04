@@ -1,11 +1,12 @@
 # merge_and_overlay_PDF
-A console  application for combining multiple pdf files into one and for applying watermarks to a file
+> A console  application for combining multiple pdf files into one and for applying watermarks to a file
 
+## Getting Started
 Before using you need to install :
 
-'''
+```sh
 pyp install PyPDF2
-'''
+```
 
 Use combine_pdf.py for combining files : you can enter the required number of paths to PDF files in the console and launch it. 
 For example input in console : 
