@@ -5,7 +5,7 @@
 Before using you need to install :
 
 ```sh
-pyp install PyPDF2
+pip install PyPDF2
 ```
 
 ## Combining
