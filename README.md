@@ -3,7 +3,7 @@ A console  application for combining multiple pdf files into one and for applyin
 
 Before using you need to install :
 
-pyp install PyPDF2
+'''pyp install PyPDF2'''
 
 Use combine_pdf.py for combining files : you can enter the required number of paths to PDF files in the console and launch it. 
 For example input in console : 
